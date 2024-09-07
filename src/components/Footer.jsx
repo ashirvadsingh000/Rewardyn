@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto p-4">
         <div className="flex flex-wrap justify-center mb-4">
           <div className="w-full md:w-1/2 xl:w-1/3 p-6">
-            <h5 className="uppercase text-lg mb-2 font-poppins font-medium">
+            <h5 className="uppercase text-xl mb-2 font-poppins font-semibold">
               About Us
             </h5>
             <p className="text-grh-screen ay-600">
@@ -83,7 +83,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <p className="text-gray-600  shadow-md shadow-cyan-800 text-sm text-center w-screen">
+        <p className="text-gray-600  shadow-md shadow-cyan-800 text-sm text-center  border border-black rounded-tl-lg rounded-br-lg">
           &copy; 2024 Ashi. All rights reserved.
         </p>
       </div>

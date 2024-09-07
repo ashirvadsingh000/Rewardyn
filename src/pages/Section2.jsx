@@ -1,10 +1,13 @@
 import React from 'react'
 import gift from '../../public/gift.png'
+import gift2 from '../../public/gift2.png'
 const Section2 = () => {
   return (
-    <div className="flex flex-wrap justify-center md:flex-nowrap bg-white shadow-md rounded-md p-4 h-fit border-b border-b-slate-500">
-      <div className="w-full md:w-1/2 xl:w-1/3 p-4">
-        <img src={gift} className="w-full h-48 rounded-md" />
+    <div className="flex flex-wrap justify-center md:flex-nowrap bg-white shadow-md rounded-lg p-2 lg:mx-[34px] my-3 h-fit border border-black m-3">
+      <div className="w-full md:w-1/2 xl:w-1/3 flex justify-center overflow-hidden">
+      <img src={gift2} className=" size-24 rounded-md self-end" />
+        <img src={gift} className=" size-56 rounded-md" />
+        <img src={gift2} className=" size-24 rounded-md self-end" />
       </div>
       <div className="w-full md:w-1/2 xl:w-2/3 p-4">
         <h2 className="text-2xl  mb-2 font-poppins font-semibold">Gift Card </h2>

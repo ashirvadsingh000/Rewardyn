@@ -6,7 +6,7 @@ const Tool = () => {
   return (
     
       <BrowserRouter>
-        <App/>
+      
       </BrowserRouter>
     
   )

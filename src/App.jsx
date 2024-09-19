@@ -28,10 +28,11 @@ import Login from './compages/Login';
 const App = () => {
   return (
     <BrowserRouter>
+   
       <Header />
       <Routes>
-        <Route path="" element={<RootP />} />
-        <Route  path="/" element={<RootP />} />
+        <Route exact path="*" element={<RootP />} />
+        <Route exact path="" element={<RootP />} />
         <Route  path="/page1" element={<Page1 />} />
         <Route  path="/page2" element={<Page2 />} />
         <Route  path="/page3" element={<Page3 />} />

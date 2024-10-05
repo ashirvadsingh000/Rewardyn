@@ -15,7 +15,15 @@ const Auth = () => {
         {isLogin ? <Login /> : <Signup />}
 
         <div className="text-center mt-4">
-       
+        <p className="text-gray-600">
+            {isLogin ? "Don't have an account?" : 'Already have an account?'}
+            <button
+              onClick={() => setIsLogin(!isLogin)}
+              className="text-indigo-500 ml-2 hover:underline"
+            >
+              {isLogin ? 'Sign Up' : 'Login'}
+            </button>
+          </p>
         </div>
       </div>
     </div>

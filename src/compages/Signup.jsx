@@ -109,12 +109,7 @@ const Signup = () => {
 
       {/* Link to navigate back to the login page */}
       <div className="text-center mt-4">
-        <p className="text-gray-600">
-          Already have an account?{' '}
-          <Link to="/" className="text-indigo-500 ml-2 hover:underline">
-            Login
-          </Link>
-        </p>
+        
       </div>
     </div>
   );

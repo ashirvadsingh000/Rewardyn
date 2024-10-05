@@ -29,6 +29,7 @@ import Footer from "./components/Footer";
 import Auth from './compages/Auth';
 import Signup from './compages/Signup';
 import UserProfile from './compages/UserProfile'; 
+import Login from './compages/Login';
 
 
 const App = () => {
@@ -63,7 +64,7 @@ const App = () => {
         <Route  path="/page22" element={<Page22 />} />
         <Route  path="/page23" element={<Page23 />} />
         <Route  path="/Auth" element={<Auth/>} />
-        <Route  path="/login" element={<Auth/>} />
+        <Route  path="/login" element={<Login/>} />
         <Route  path="/signup" element={<Signup/>} />
         <Route path="/user/:username" element={<UserProfile />} />
       </Routes>

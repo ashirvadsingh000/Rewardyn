@@ -21,18 +21,23 @@ import Page17 from "./compages/Page17";
 import Page18 from "./compages/Page18";
 import Page19 from "./compages/Page19";
 import Page20 from "./compages/Page20";
+import Page21 from "./compages/Page21";
+import Page22 from "./compages/Page22";
+import Page23 from "./compages/Page23";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Login from './compages/Login';
+import Auth from './compages/Auth';
+import Signup from './compages/Signup';
+import UserProfile from './compages/UserProfile'; 
+
 
 const App = () => {
   return (
     <BrowserRouter>
-   
       <Header />
       <Routes>
         <Route exact path="*" element={<RootP />} />
-        <Route exact path="" element={<RootP />} />
+        <Route exact path="/rootp" element={<RootP />} />
         <Route  path="/page1" element={<Page1 />} />
         <Route  path="/page2" element={<Page2 />} />
         <Route  path="/page3" element={<Page3 />} />
@@ -53,7 +58,13 @@ const App = () => {
         <Route  path="/page18" element={<Page18 />} />
         <Route  path="/page19" element={<Page19 />} />
         <Route  path="/page20" element={<Page20 />} />
-        <Route  path="/login" element={<Login/>} />
+        <Route  path="/page21" element={<Page21 />} />
+        <Route  path="/page22" element={<Page22 />} />
+        <Route  path="/page23" element={<Page23 />} />
+        <Route  path="/Auth" element={<Auth/>} />
+        <Route  path="/login" element={<Auth/>} />
+        <Route  path="/signup" element={<Signup/>} />
+        <Route path="/user/:username" element={<UserProfile />} />
       </Routes>
       <Footer />
     </BrowserRouter>

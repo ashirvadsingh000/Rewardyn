@@ -56,7 +56,7 @@ click me
     </a>
   </div>
   <div className='bg-white rounded shadow-md p-4 cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border'>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Target_logo.svg/1200px-Target_logo.svg.png
+    <img src='https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGdZe8cm8zYEiuQcEqV7adXmeDwEoGZwEZAkCz-k9kHGamrykr
 ' className='imagebg-white rounded shadow-md p-4 cursor-pointer  border-black hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border w-full h-40'/>
     <a href=''>
 <Link to="/page4">
@@ -221,6 +221,36 @@ click me
     <img src='https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1' className='imagebg-white rounded shadow-md p-4 cursor-pointer  border-black hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border w-full h-40'/>
     <a href=''>
 <Link to="/page20">
+  <button className='bg-cyan-400 text-white hover:bg-white hover:text-cyan-600 hover:border-cyan-600 hover:border py-2 px-4 rounded mt-4 hover:shadow-lg hover:scale-110 hover:text-red-500 shadow-cyan-800 shadow-md hover:shadow-red-950 transition duration-300 ease-in-out'>
+click me
+</button>
+</Link>
+    </a>
+  </div>
+  <div className='bg-white rounded shadow-md p-4 cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border'>
+    <img src='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACAAIAMBEQACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAHAAUGA//EAC0QAAECBAMGBQUAAAAAAAAAAAECBAADBREGEiEHFTFBYZFVlKHC0RQiUXKB/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAQDBQYCAf/EACoRAAEDAQUHBQEAAAAAAAAAAAEAAgMEERIhMZEFFEFRcaHBBlKx0eFh/9oADAMBAAIRAxEAPwBxgQqrFFT3PQHr4EBcuWRL6rOifUiI5X3GEpygp95qWRcCcemZ7Lng+qb4w4ydrVmm5Mk7906Hva/9ghffYCutpU27VT4xlmOhxCuYkSKkCEb7Xqn9rGlS1cSXE0A8hdKfd2EJVbsmrU+m6fF856D5PjVcNkVTyOXtKWdJgDiUOoslXpl7GPKR2JapPUlPaxk44YH5HlJ8PLJKQIRPWMM4gxRiJ49S1+nbKmZJUx0rIMidBZOqtbX4c4QfFJI8mxbKm2jR0FKyMutdZaQMcTjnl/M1o8MbP5VFfSKhPqE2c6k3KUy0hCNQQb3uToTzETR04YbxKq6/bjqmMxNYA088T4W1hlUKxe07D6qpS0P2kords+KUi5XLPEdbce/5hapjvNvDMK+2DXCCYxPNjXdjw1y0RVux/wCHPPLr+IRuu5LYbxD7xqFN2P8Aw555dfxBddyRvMPvGo+0p7MKAqm0yZUHUpSHTs2CVpspEscBblc69oepo7rbxzKyG3q4TzCJhta3ufzLVf/Z' className='imagebg-white rounded shadow-md p-4 cursor-pointer  border-black hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border w-full h-40'/>
+    <a href=''>
+<Link to="/page21">
+  <button className='bg-cyan-400 text-white hover:bg-white hover:text-cyan-600 hover:border-cyan-600 hover:border py-2 px-4 rounded mt-4 hover:shadow-lg hover:scale-110 hover:text-red-500 shadow-cyan-800 shadow-md hover:shadow-red-950 transition duration-300 ease-in-out'>
+click me
+</button>
+</Link>
+    </a>
+  </div>
+  <div className='bg-white rounded shadow-md p-4 cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border'>
+    <img src='https://images.mamaearth.in/wysiwyg/mamaearth-logo.png?format=auto&fit=scale' className='imagebg-white rounded shadow-md p-4 cursor-pointer  border-black hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border w-full h-40'/>
+    <a href=''>
+<Link to="/page22">
+  <button className='bg-cyan-400 text-white hover:bg-white hover:text-cyan-600 hover:border-cyan-600 hover:border py-2 px-4 rounded mt-4 hover:shadow-lg hover:scale-110 hover:text-red-500 shadow-cyan-800 shadow-md hover:shadow-red-950 transition duration-300 ease-in-out'>
+click me
+</button>
+</Link>
+    </a>
+  </div>
+  <div className='bg-white rounded shadow-md p-4 cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border'>
+    <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEX////d8N/U7NaS0ZkQrS0jsDmKz5Iys0Q4tEkqsT5pw3RhwG3L6M5HuFY/tk96sdsAfscAgcgAgsgAfMaWweO137mu3LMAesVxrdnP4vEAdcP4/P4Ad8TJ3e/l8Pjc6vWO0JaIuN7w+fFLmdF1xn6y0OmlyOUpjMxfotVnqNcAccIzj82W0lcTAAABBUlEQVR4AZSPhaLCMAwAD3fWJkDnw/X/vw+ZPEWv3qskvEmtnlPjDo1mK6fZviM73ZLWM9n79Ga/tJ3BHVlvlReH3GFUXB3zE89Y0QlMe3k4M5g4scYHCEJrbRgBva9w4ttWACROxHikGY2r7c3JUjwj4pJSxikLn2Wz220u8Rak8bc0KzAuYt3p9EEVVqaSt3Hj3JZ6q1Vnq7ohiStpBXZWdjAawU5us10ldUtQfDKd3e5IHLDVXAahwt5I/nP+m5g9aJ4KB4/0qGolTCENxaoeMxZ7fiDWeOAZMfzHWnERKo+kbjfuobSnk30o5dbuSmMlx+od6YcuJzxwhyDJCS4jMg8AADMnGX0WJNKKAAAAAElFTkSuQmCC' className='imagebg-white rounded shadow-md p-4 cursor-pointer  border-black hover:shadow-lg hover:scale-105 transition duration-300 ease-in-out shadow-cyan-800 hover:shadow-red-950 border w-full h-40'/>
+    <a href=''>
+<Link to="/page23">
   <button className='bg-cyan-400 text-white hover:bg-white hover:text-cyan-600 hover:border-cyan-600 hover:border py-2 px-4 rounded mt-4 hover:shadow-lg hover:scale-110 hover:text-red-500 shadow-cyan-800 shadow-md hover:shadow-red-950 transition duration-300 ease-in-out'>
 click me
 </button>

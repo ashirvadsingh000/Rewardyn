@@ -28,7 +28,7 @@ const Page6 = () => {
                 <span>11</span>:<span>13</span>:<span>48</span>:<span>04</span>
                 <span className="text-sm font-normal"> days hrs mins secs</span>
               </div>
-              <button className="bg-orange-500 text-white py-2 px-4 rounded-full"><a href="https://www.flipkart.com/">EARN UPTO 8% CASHBACK</a></button>
+              <button className="bg-orange-500 text-white py-2 px-4 rounded-full"><a href="https://fktr.in/5IQfQ9j">EARN UPTO 8% CASHBACK</a></button>
             </div>
           </div>
           <div className="bg-white py-8">
@@ -57,7 +57,7 @@ const Page6 = () => {
               </div>
             </div>
             <div className="text-center mt-8">
-              <button className="bg-blue-500 text-white py-2 px-4 rounded-full"><a href="https://www.flipkart.com/">See More Offers</a></button>
+              <button className="bg-blue-500 text-white py-2 px-4 rounded-full"><a href="https://fktr.in/5IQfQ9j">See More Offers</a></button>
             </div>
           </div>
         </div>

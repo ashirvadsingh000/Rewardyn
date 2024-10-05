@@ -1,6 +1,6 @@
 import React from 'react'
-import gift from '../../public/gift.png'
-import gift2 from '../../public/gift2.png'
+import gift from '/gift.png'
+import gift2 from '/gift2.png'
 const Section2 = () => {
   return (
     <div className="flex flex-wrap justify-center md:flex-nowrap bg-white shadow-md rounded-lg p-2 lg:mx-[34px] my-3 h-fit border border-black m-3">

@@ -1,11 +1,11 @@
 import React from 'react'
 import { BsDot } from 'react-icons/bs'
-const Page4 = () => {
+const Page21 = () => {
   return (
     <div>
        <div className="font-roboto bg-gray-100 lg:pt-28 pt-16">
           <div className="bg-blue-600 text-white text-center py-8">
-            <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGdZe8cm8zYEiuQcEqV7adXmeDwEoGZwEZAkCz-k9kHGamrykr" alt=" logo" className="mx-auto mb-4" />
+            <img src="https://www.boat-lifestyle.com/cdn/shop/files/boAt_logo_small_3067da8c-a83b-46dd-b28b-6ef1e16ccd17_small.svg?v=1693549434" alt=" logo" className="mx-auto mb-4" />
             <h1 className="text-xl font-bold">Coupon Codes</h1>
             <p className="text-sm">
               Discover the trendiest, freshest, and most unique styles at , your ultimate fashion destination offering on-trend collections at...
@@ -28,7 +28,7 @@ const Page4 = () => {
                 <span>11</span>:<span>13</span>:<span>48</span>:<span>04</span>
                 <span className="text-sm font-normal"> days hrs mins secs</span>
               </div>
-              <button className="bg-orange-500 text-white py-2 px-4 rounded-full"><a href="https://myntr.it/paiIxfM">EARN UPTO 8% CASHBACK</a></button>
+              <button className="bg-orange-500 text-white py-2 px-4 rounded-full"><a href="https://bitli.in/mDlV1Hg">EARN UPTO 8% CASHBACK</a></button>
             </div>
           </div>
           <div className="bg-white py-8">
@@ -57,7 +57,7 @@ const Page4 = () => {
               </div>
             </div>
             <div className="text-center mt-8">
-              <button className="bg-blue-500 text-white py-2 px-4 rounded-full"><a href=" ">See More Offers</a></button>
+              <button className="bg-blue-500 text-white py-2 px-4 rounded-full"><a href="https://www.rakuten.com/">See More Offers</a></button>
             </div>
           </div>
         </div>
@@ -65,4 +65,4 @@ const Page4 = () => {
   )
 }
 
-export default Page4
+export default Page21

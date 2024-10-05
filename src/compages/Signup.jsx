@@ -19,7 +19,12 @@ const Signup = () => {
 
     const existingUsers = JSON.parse(localStorage.getItem('users')) || [];
     const isEmailTaken = existingUsers.some((user) => user.email === email);
-
+<p className="text-gray-600">
+          Already have an account?{' '}
+          <Link to="/" className="text-indigo-500 ml-2 hover:underline">
+            Login
+          </Link>
+        </p>
     if (isEmailTaken) {
       setError('Email is already taken');
       return;
@@ -31,7 +36,7 @@ const Signup = () => {
     alert('Signup successful! Please log in.');
 
     // Navigate to login page after successful signup
-    navigate('/');
+    navigate('/login');
   };
 
   return (
